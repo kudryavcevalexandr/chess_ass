@@ -1,4 +1,8 @@
 node_modules/
+.gradle/
+.idea/
+local.properties
+*.iml
 android/.gradle/
 android/build/
 android/app/.gradle/
