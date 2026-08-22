@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Запись экрана</string>
+    <string name="title">Запись экрана без звука</string>
+    <string name="description">Выберите папку, подтвердите системный запрос доступа к экрану — и запись продолжится, даже если свернуть приложение.</string>
+    <string name="choose_folder">Выбрать папку и начать</string>
+    <string name="stop_recording">Остановить запись</string>
+    <string name="status_ready">Готово к записи</string>
+    <string name="status_permission">Ожидание разрешения на захват экрана…</string>
+    <string name="status_recording">Идёт запись экрана</string>
+    <string name="status_saved">Видео сохранено в выбранной папке</string>
+    <string name="status_cancelled">Запись отменена</string>
+    <string name="status_error">Не удалось начать запись</string>
+    <string name="notification_channel">Запись экрана</string>
+    <string name="notification_title">Идёт запись экрана</string>
+    <string name="notification_text">Нажмите «Остановить», чтобы сохранить видео</string>
+    <string name="notification_stop">Остановить</string>
+</resources>
