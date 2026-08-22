@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Запись экрана</string>
+    <string name="app_name">Шахматный ассистент</string>
     <string name="title">Запись экрана без звука</string>
     <string name="description">Выберите папку, подтвердите системный запрос доступа к экрану — и запись продолжится, даже если свернуть приложение.</string>
     <string name="choose_folder">Выбрать папку и начать</string>
